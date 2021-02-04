@@ -6,7 +6,7 @@
  <li>Add missing dependency spring social</li>
 	
     <dependency>
-    	<groupId>org.springframework.social</groupId>
+        <groupId>org.springframework.social</groupId>
         <artifactId>spring-social-facebook</artifactId>
         <version>1.0.0.RELEASE</version>
     </dependency>
