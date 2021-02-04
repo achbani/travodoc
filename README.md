@@ -7,8 +7,8 @@
 	
     <dependency>
     	<groupId>org.springframework.social</groupId>
-	<artifactId>spring-social-facebook</artifactId>
-	<version>1.0.0.RELEASE</version>
+        <artifactId>spring-social-facebook</artifactId>
+        <version>1.0.0.RELEASE</version>
     </dependency>
  <li>git commit</li>
  <li>git new branch dev</li>
